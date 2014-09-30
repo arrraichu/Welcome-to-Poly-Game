@@ -1,0 +1,44 @@
+1)Great weather today, huh?
+>Yes
+>Meh...
+!Awesome.
+!What a gloomer...
+
+2)Hey are you new here?
+>Yes
+>Not really
+!Oh welcome to Magnet! Let's get along.
+!Oh really? Haven't really seen you around...
+
+3)Hey did you check out the Game Center?
+>Yes, it's awesome!
+>No, no time
+!I know right?! You can play almost any game there! Let's play together 
+sometime.
+!Aww come on. One must always make time for some fun gaming.
+
+4)Hey aren't you in Game Design II? Did you finish the game project? (You can use the exact name of the class)
+>Yeah almost done?
+>No I have been stuck with a few bugs
+!Oh cool. Mind helping me fix up a few bugs in my code?
+!Aww c'mon! It's not that hard. I can help out if you want.
+
+5)...What do you want? I am trying to study for an exam.
+>Do you have time to talk?
+>Oh sorry I won't bother you.
+!...Can't you see I am busy doing something, maybe later.
+!Good I have a crap ton of stuff to finish, so I would appreciate it if I 
+wasn't bothered at the moment.
+
+6)...
+>You ok?
+>...Maybe I should just leave him/her alone.
+!Just having some personal problems.
+!...Why did he/she have to be so mean to me...
+
+7)I am planning on getting a new game but don't know which one...
+>Get Super Smash Bro!
+>Get Pokemon Omega Red!
+!Eh Smash Smash Smash. I don't like Smash & I would rather not waste money on 
+that.
+!Eh Pokemon is for kids. Not for me. Maybe Final Fantasy or Golden Sun, hmm...
