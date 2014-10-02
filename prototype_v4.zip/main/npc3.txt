@@ -1,0 +1,5 @@
+...What do you want? I am trying to study for an exam.
+>↑ Do you have time to talk?
+>↓ Oh sorry I won't bother you.
+!Can't you see I am busy doing something, maybe later.
+!Good.

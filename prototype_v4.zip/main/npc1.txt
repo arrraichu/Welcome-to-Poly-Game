@@ -1,0 +1,5 @@
+Great weather today, huh?
+>↑ Yes
+>↓ Meh...
+!Awesome.
+!If only today was a Friday, am I right?
